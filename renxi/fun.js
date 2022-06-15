@@ -39,7 +39,7 @@ $(window).resize(function() {
 
 function timeElapse(d){
   
-  const date = new Date('2021-09-18: 08: 39: 00').valueOf();
+  const date = new Date('2022-03-09: 22: 18: 00').valueOf();
 
   const currentDate = new Date().valueOf();
   
